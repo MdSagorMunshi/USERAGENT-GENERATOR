@@ -1,6 +1,6 @@
 # Random UserAgent Generator
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Visit Countdown](https://img.shields.io/date/1672534200?label=Visit%20Countdown&style=flat)](https://your-project-url.com)
+[![Visit Countdown](https://img.shields.io/date/1672534200?label=Visit%20Countdown&style=flat)](https://github.com/LAYEK-143/USERAGENT-GENERATOR)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://your-project-url.com)
 
 Generate random User-Agent strings for web scraping and testing purposes.
